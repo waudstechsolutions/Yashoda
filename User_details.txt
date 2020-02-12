@@ -1,1 +1,2 @@
 Here we're creating a file for user details
+Edited user info in GitHub
